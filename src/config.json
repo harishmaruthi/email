@@ -1,0 +1,5 @@
+{
+    "services" : {
+        "EMAIL_ALL": "http://5c5a21f9af3ff700140de477.mockapi.io/api/email"
+    }
+}
